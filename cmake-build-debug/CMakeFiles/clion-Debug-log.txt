@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2022.3.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.1/bin/ninja/win/x64/ninja.exe" -DCMAKE_TOOLCHAIN_FILE=C:\Users\rudri\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S C:\Users\rudri\CLionProject\prog3_unit1_3d_object_v2024 -B C:\Users\rudri\CLionProject\prog3_unit1_3d_object_v2024\cmake-build-debug
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/rudri/CLionProject/prog3_unit1_3d_object_v2024/cmake-build-debug

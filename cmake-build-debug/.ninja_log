@@ -1,0 +1,9 @@
+# ninja log v5
+5	532	7338357322832109	build.ninja	f506be8efc54d238
+3	153	7338333493939833	CMakeFiles/prog3_unit1_3d_object_v2024.dir/main.cpp.obj	85f981d6a6a5fdf8
+2399	4488	7338272811016803	3DObject.exe	667c39013c4dc7d5
+0	40	0	clean	f1c0810b4f0350db
+3643	5584	7338353487443294	prog3_unit1_3d_object_v2024.exe	b5d2b86fd04aa24b
+323	2876	7338321980975116	CMakeFiles/prog3_unit1_3d_object_v2024.dir/Object3D.cpp.obj	fc22752c721942f6
+48	1471	7338350869568543	CMakeFiles/prog3_unit1_3d_object_v2024.dir/Sphere.cpp.obj	aa80223d310dddab
+3	3640	7338353482713294	CMakeFiles/prog3_unit1_3d_object_v2024.dir/SphereTest.cpp.obj	2d7da2cd5f961f7a

@@ -1,0 +1,19 @@
+
+>
+CMakeLists.txt,9\a\9a2aa4db38d3115ed60da621e012c0efc0172aae
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+8
+main.cpp,6\8\682a50d19e416195436708e48c7761923b8d6651
+<
+Object3D.cpp,7\6\7698e2cc8ebe7639e6db158ae86ff36caefa1391
+:
+
+Object3D.h,8\e\8e0cfd6684932a81e668b530ad450c41832b92b3
+8
+Sphere.h,6\7\67350de29eee324c26afd708b4fb1e5f3d7f083e
+:
+
+Sphere.cpp,b\5\b5ed4c611c3889b21a4028434c502b106eeb63ab
+>
+SphereTest.cpp,5\c\5c840f8d2213b4f12477ecbe1a581c660a692bc5
